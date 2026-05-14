@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning and Artificial Intelligence: Concepts, Algorithms and Models",
+        "output": "The estimated price on Amazon is PKR\u00a027,537.09."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Essentials You Always Wanted to Know: A Hands-On Beginner\u2019s Guide to Mastering AI, Supervised, Unsupervised, and Deep Learning Algorithms",
+        "output": "The estimated price on Amazon is PKR\u00a08,351.92."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning",
+        "output": "The estimated price on Amazon is PKR\u00a014,200.21."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning for Absolute Beginners: A Plain English Introduction (Third Edition) (Learn Machine Learning for Beginners)",
+        "output": "The estimated price on Amazon is PKR\u00a04,121.65."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
+        "output": "The estimated price on Amazon is PKR\u00a013,348.03."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems",
+        "output": "The estimated price on Amazon is PKR\u00a023,206.57."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: The Hundred-Page Machine Learning Book (The Hundred-Page Books)",
+        "output": "The estimated price on Amazon is PKR\u00a08,811.42."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
+        "output": "The estimated price on Amazon is PKR\u00a011,139.60."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python",
+        "output": "The estimated price on Amazon is PKR\u00a010,568.70."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning System Design Interview",
+        "output": "The estimated price on Amazon is PKR\u00a011,139.60."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Applied Machine Learning: A Practical Guide to Preparing Data, Selecting Algorithms, and Implementing Machine Learning Models in the Real World (Rheinwerk Computing)",
+        "output": "The estimated price on Amazon is PKR\u00a013,267.26."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: PyTorch: The Practical Guide to Building, Training, and Deploying Deep Learning Models (Rheinwerk Computing)",
+        "output": "The estimated price on Amazon is PKR\u00a013,303.47."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: AI Essentials for Beginners: Discover the Power of ChatGPT, Generative AI & Machine Learning to Save Time, Unlock Creative Potential & Boost Productivity, Even if You\u2019re Tech-Challenged",
+        "output": "The estimated price on Amazon is PKR\u00a04,174.57."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: AI for Beginners: Effortlessly Learn AI Essentials and Master Cutting-Edge Trends in Just 10 Days to Future-Proof Your Skills",
+        "output": "The estimated price on Amazon is PKR\u00a05,288.53."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases",
+        "output": "The estimated price on Amazon is PKR\u00a08,663.82."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning and Artificial Intelligence: Concepts, Algorithms and Models",
+        "output": "The estimated price on Amazon is PKR\u00a027,537.09."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Why Machines Learn: The Elegant Math Behind Modern AI",
+        "output": "The estimated price on Amazon is PKR\u00a05,603.22."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Deep Learning (Adaptive Computation and Machine Learning series)",
+        "output": "The estimated price on Amazon is PKR\u00a013,955.13."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Python Machine Learning By Example: Unlock machine learning best practices with real-world use cases",
+        "output": "The estimated price on Amazon is PKR\u00a08,663.82."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning System Design: With end-to-end examples",
+        "output": "The estimated price on Amazon is PKR\u00a015,314.17."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Learn to Create Machine Learning Models: Create your professional portfolio of Machine Learning Models (AI - Learn then Implement)",
+        "output": "The estimated price on Amazon is PKR\u00a06,959.47."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Hands-On Machine Learning with C++: Build, train, and deploy end-to-end machine learning and deep learning pipelines",
+        "output": "The estimated price on Amazon is PKR\u00a011,136.82."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Probabilistic Machine Learning: Advanced Topics (Adaptive Computation and Machine Learning series)",
+        "output": "The estimated price on Amazon is PKR\u00a041,773.50."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: The StatQuest Illustrated Guide To Machine Learning",
+        "output": "The estimated price on Amazon is PKR\u00a07,056.94."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series)",
+        "output": "The estimated price on Amazon is PKR\u00a030,074.14."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning for Absolute Beginners: A Plain English Introduction (Third Edition) (Learn Machine Learning for Beginners)",
+        "output": "The estimated price on Amazon is PKR\u00a04,121.65."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: AI Engineering: Building Applications with Foundation Models",
+        "output": "The estimated price on Amazon is PKR\u00a015,873.93."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Mathematics for Machine Learning",
+        "output": "The estimated price on Amazon is PKR\u00a015,316.95."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Build a Large Language Model (From Scratch)",
+        "output": "The estimated price on Amazon is PKR\u00a013,712.85."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning",
+        "output": "The estimated price on Amazon is PKR\u00a014,200.21."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python",
+        "output": "The estimated price on Amazon is PKR\u00a010,295.78."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: AI for Good: How Real People Are Using Artificial Intelligence to Fix Things That Matter",
+        "output": "The estimated price on Amazon is PKR\u00a07,797.72."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Made Simple: A Beginner to Advanced Guide to AI, Deep Learning, and LLMs",
+        "output": "The estimated price on Amazon is PKR\u00a00.00."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: I Am Not a Robot: My Year Using AI to Do (Almost) Everything",
+        "output": "The estimated price on Amazon is PKR\u00a07,129.34."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Foundations, Volume 1: Supervised Learning",
+        "output": "The estimated price on Amazon is PKR\u00a022,276.42."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning for Trading: Integrate GenAI, Causal Inference, and Reinforcement Learning into Real World Trading Systems",
+        "output": "The estimated price on Amazon is PKR\u00a013,921.72."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning, revised and updated edition (The MIT Press Essential Knowledge series)",
+        "output": "The estimated price on Amazon is PKR\u00a03,923.92."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Essentials You Always Wanted to Know: A Hands-On Beginner\u2019s Guide to Mastering AI, Supervised, Unsupervised, and Deep Learning Algorithms",
+        "output": "The estimated price on Amazon is PKR\u00a08,351.92."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series)",
+        "output": "The estimated price on Amazon is PKR\u00a033,616.53."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps",
+        "output": "The estimated price on Amazon is PKR\u00a010,301.35."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: The Last Human Marketer: Turning AI Into Stories that Win Customers",
+        "output": "The estimated price on Amazon is PKR\u00a05,567.02."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Deep Learning: Foundations and Concepts",
+        "output": "The estimated price on Amazon is PKR\u00a014,757.19."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Introduction to Machine Learning with Python: A Guide for Data Scientists",
+        "output": "The estimated price on Amazon is PKR\u00a010,370.97."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Fundamentals of Data Engineering: Plan and Build Robust Data Systems",
+        "output": "The estimated price on Amazon is PKR\u00a012,250.78."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Master Machine Learning with scikit-learn: A Practical Guide to Building Better Models with Python",
+        "output": "The estimated price on Amazon is PKR\u00a05,291.31."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Introduction to Machine Learning: From Math to Code",
+        "output": "The estimated price on Amazon is PKR\u00a021,376.89."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning: From the Classics to Deep Networks, Transformers, and Diffusion Models",
+        "output": "The estimated price on Amazon is PKR\u00a032,580.55."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Reinforcement Learning, second edition: An Introduction (Adaptive Computation and Machine Learning series)",
+        "output": "The estimated price on Amazon is PKR\u00a019,213.03."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street",
+        "output": "The estimated price on Amazon is PKR\u00a011,969.50."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning For Dummies (For Dummies (Computer/Tech))",
+        "output": "The estimated price on Amazon is PKR\u00a05,848.29."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: The Alignment Problem: Machine Learning and Human Values",
+        "output": "The estimated price on Amazon is PKR\u00a05,191.05."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Deep Reinforcement Learning Hands-On: A practical and easy-to-follow guide to RL from Q-learning and DQNs to PPO and RLHF",
+        "output": "The estimated price on Amazon is PKR\u00a09,599.55."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps",
+        "output": "The estimated price on Amazon is PKR\u00a07,494.17."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Engineering",
+        "output": "The estimated price on Amazon is PKR\u00a010,997.57."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Pattern Recognition and Machine Learning (Information Science and Statistics)",
+        "output": "The estimated price on Amazon is PKR\u00a019,683.67."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: The Hundred-Page Language Models Book: hands-on with PyTorch (The Hundred-Page Books)",
+        "output": "The estimated price on Amazon is PKR\u00a013,075.11."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python",
+        "output": "The estimated price on Amazon is PKR\u00a012,601.67."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: PyTorch: The Practical Guide to Building, Training, and Deploying Deep Learning Models (Rheinwerk Computing)",
+        "output": "The estimated price on Amazon is PKR\u00a013,303.47."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Agentic AI Engineering System: The End of Prompt Engineering | Architecting State-Aware Agents and Autonomous Swarms",
+        "output": "The estimated price on Amazon is PKR\u00a010,022.86."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Data Science Fundamentals and Practical Approaches: A comprehensive guide to data preprocessing, statistical modeling, machine learning, and deep learning architectures - 2nd Edition",
+        "output": "The estimated price on Amazon is PKR\u00a011,125.68."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: AI Essentials for Beginners: Discover the Power of ChatGPT, Generative AI & Machine Learning to Save Time, Unlock Creative Potential & Boost Productivity, Even if You\u2019re Tech-Challenged",
+        "output": "The estimated price on Amazon is PKR\u00a06,680.98."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Investing for Programmers: Understanding markets through data and code",
+        "output": "The estimated price on Amazon is PKR\u00a016,706.62."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Quantum Computing and Quantum Machine Learning for Engineers and Developers",
+        "output": "The estimated price on Amazon is PKR\u00a022,276.42."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning For Absolute Beginners: A Plain English Introduction (Second Edition) (Learn AI & Python for Beginners)",
+        "output": "The estimated price on Amazon is PKR\u00a00.00."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Q and AI: 30 Essential Questions and Answers on Machine Learning and AI",
+        "output": "The estimated price on Amazon is PKR\u00a011,351.25."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning for C# Developers Made Easy: Build smart applications with ML.NET",
+        "output": "The estimated price on Amazon is PKR\u00a011,136.82."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Interpretable Machine Learning: A Guide For Making Black Box Models Explainable",
+        "output": "The estimated price on Amazon is PKR\u00a012,401.16."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning and Artificial Intelligence: Concepts, Algorithms and Models",
+        "output": "The estimated price on Amazon is PKR\u00a027,537.09."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Shipping Machine Learning Systems",
+        "output": "The estimated price on Amazon is PKR\u00a016,706.62."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Hands-On Machine Learning with C++: Build, train, and deploy end-to-end machine learning and deep learning pipelines",
+        "output": "The estimated price on Amazon is PKR\u00a011,136.82."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Understanding Deep Learning: Building Machine Learning Systems with PyTorch and TensorFlow: From Neural Networks (CNN, DNN, GNN, RNN, ANN, LSTM, GAN) to Natural Language Processing (NLP)",
+        "output": "The estimated price on Amazon is PKR\u00a020,883.97."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Applied Machine Learning: A Practical Guide to Preparing Data, Selecting Algorithms, and Implementing Machine Learning Models in the Real World (Rheinwerk Computing)",
+        "output": "The estimated price on Amazon is PKR\u00a013,267.26."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning System Design: With end-to-end examples",
+        "output": "The estimated price on Amazon is PKR\u00a015,314.17."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: AI for Beginners: Effortlessly Learn AI Essentials and Master Cutting-Edge Trends in Just 10 Days to Future-Proof Your Skills",
+        "output": "The estimated price on Amazon is PKR\u00a05,288.53."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Applied Machine Learning: A Practical Guide to Preparing Data, Selecting Algorithms, and Implementing Machine Learning Models in the Real World (Rheinwerk Computing)",
+        "output": "The estimated price on Amazon is PKR\u00a013,267.26."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Hands-On Machine Learning with C++: Build, train, and deploy end-to-end machine learning and deep learning pipelines",
+        "output": "The estimated price on Amazon is PKR\u00a011,136.82."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Deep Learning with Python, Third Edition",
+        "output": "The estimated price on Amazon is PKR\u00a020,274.07."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning with Python: Principles and Practical Techniques",
+        "output": "The estimated price on Amazon is PKR\u00a012,529.27."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence",
+        "output": "The estimated price on Amazon is PKR\u00a00.00."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning: New and Collected Stories",
+        "output": "The estimated price on Amazon is PKR\u00a00.00."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Deep Learning: A Visual Approach",
+        "output": "The estimated price on Amazon is PKR\u00a016,862.57."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Learn to Create Machine Learning Models: Create your professional portfolio of Machine Learning Models (AI - Learn then Implement)",
+        "output": "The estimated price on Amazon is PKR\u00a06,959.47."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Foundations, Volume 1: Supervised Learning",
+        "output": "The estimated price on Amazon is PKR\u00a022,276.42."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Artificial Intelligence For Dummies (For Dummies (Computer/Tech))",
+        "output": "The estimated price on Amazon is PKR\u00a04,628.50."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics",
+        "output": "The estimated price on Amazon is PKR\u00a010,331.98."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: First-Time Sewing Machine Guide for Beginners: Learn Your Machine, Build Confidence, and Sew Your First Real Projects\u2014Step by Step",
+        "output": "The estimated price on Amazon is PKR\u00a04,163.43."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights",
+        "output": "The estimated price on Amazon is PKR\u00a010,162.10."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning: An Applied Mathematics Introduction",
+        "output": "The estimated price on Amazon is PKR\u00a03,773.54."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Algorithms in Depth",
+        "output": "The estimated price on Amazon is PKR\u00a016,759.53."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Graph Machine Learning: Learn about the latest advancements in graph data to build robust machine learning models",
+        "output": "The estimated price on Amazon is PKR\u00a011,136.82."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning Interview Questions and Answers: Machine Learning refresher for Interview",
+        "output": "The estimated price on Amazon is PKR\u00a00.00."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Causal Inference and Discovery in Python: Unlock the secrets of modern causal machine learning with DoWhy, EconML, PyTorch and more",
+        "output": "The estimated price on Amazon is PKR\u00a011,899.88."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Applied Machine Learning and AI for Engineers: Solve Business Problems That Can't Be Solved Algorithmically",
+        "output": "The estimated price on Amazon is PKR\u00a014,857.44."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: The Essentials of AI Deep Learning and Neural Networks: Beginner's Guide to Understanding Machine Learning and Building Advanced AI Skills in Minutes a Day",
+        "output": "The estimated price on Amazon is PKR\u00a00.00."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Linear Algebra and Optimization for Machine Learning: A Textbook",
+        "output": "The estimated price on Amazon is PKR\u00a013,980.20."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning: Algorithms, Theory and Practice \u2014 A Comprehensive Hands-On Guide with Python",
+        "output": "The estimated price on Amazon is PKR\u00a00.00."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2, 3rd Edition",
+        "output": "The estimated price on Amazon is PKR\u00a012,529.27."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Machine Learning With Python For Beginners: A Step-By-Step Guide with Hands-On Projects (Learn Coding Fast with Hands-On Project Book 7)",
+        "output": "The estimated price on Amazon is PKR\u00a00.00."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Reliable Machine Learning: Applying SRE Principles to ML in Production",
+        "output": "The estimated price on Amazon is PKR\u00a012,289.76."
+    },
+    {
+        "instruction": "Act as an E-commerce pricing expert. Given the product title, estimate its current market price.",
+        "input": "Product Title: Sample Machine Learning Data: A Collection for Education and Research",
+        "output": "The estimated price on Amazon is PKR\u00a01,581.82."
+    }
+]
